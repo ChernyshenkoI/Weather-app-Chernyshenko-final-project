@@ -95,13 +95,13 @@ body {
   }
   .author{
     background-color: #fff;
+  
   }
   .weather-forecast{
     background-color:#afc5ff;
+    
   }
   #temperature, #city{
     color:  #007cb9;
   }
-  #city{
-
-  }
+ 
